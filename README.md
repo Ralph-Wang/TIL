@@ -1,5 +1,6 @@
 # TIL
-placeholder of TIL for myself
+
+Fragment knowledge about ANYTHING
 
 
 
